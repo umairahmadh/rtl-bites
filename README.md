@@ -92,9 +92,7 @@ Apologies for the confusion. Here's the revised curriculum in a markdown table f
 | 84  | Advanced RTL Design - Design for Testability (DFT)           |
 | 85  | Advanced RTL Design - Design for Security                    |
 | 86  | Advanced RTL Design - Design for Safety-Critical Applications|
-| 87  | Advanced RTL
-
- Design - Design for Automotive Applications     |
+| 87  | Advanced RTL Design - Design for Automotive Applications     |
 | 88  | Advanced RTL Design - Design for IoT Applications            |
 | 89  | Advanced RTL Design - Design for AI and Machine Learning Accel.|
 | 90  | Advanced RTL Design - Design for Custom Processors           |
